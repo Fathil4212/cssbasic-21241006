@@ -1,0 +1,69 @@
+h1 {
+  color: hsl(0, 0%, 0%);
+  text-transform: uppercase;
+  letter-spacing: spacing 5px;
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+
+.Autor {
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: underline;
+
+}
+
+body {
+  background-color: grey;
+  background-image: url(mpl-id.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+
+
+}
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: justify;
+  text-indent: 20px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+
+h3,h4 {
+color: hsl(60, 82%, 59%);
+font-family: 'Oswald-Regular', sans-serif;
+}
+.boleh{
+  color: blue;
+  text-transform: uppercase;
+}
+.ngakBoleh{
+  color: rgba(240, 15, 15, 0.959);
+  text-transform: uppercase;
+}
+
+.kunjungi:hover{
+  color: yellow;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.kunjungi:active{
+  font-style:italic ;
+}
+.kunjungi:visited{
+  color:red;
+}
+.namaSemuaTeam:hover{
+  color: yellow;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.namaSemuaTeam:active{
+  font-style:italic ;
+}
+.namaSemuateam:visited{
+  color:red;
+}
